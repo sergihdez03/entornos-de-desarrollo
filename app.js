@@ -1,3 +1,0 @@
-/*
-    Lado clientes
-*/
